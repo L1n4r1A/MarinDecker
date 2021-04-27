@@ -12,6 +12,10 @@
 気付きにくい場所(あまり使わない要素等)のクラス名等が記載されてるファイルです。  
 センシティブメディア警告等、一度設定したら見落としがちな物も入っているので良ければご利用ください。
 
+#### ThemeTemplate.js
+テーマ提出用のテンプレートです。
+[Create by taiy](https://github.com/taiyme)
+
 ### Link
 
 #### MarinDeckThemeGenerator (MDTG)
