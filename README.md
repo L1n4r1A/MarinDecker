@@ -3,7 +3,9 @@
 ### About
 るなちが人柱してる時に収集したデータ等を共有する為のリポジトリ。  
 何か有益な情報がありましたら [Twitter@lunalightp](https://twitter.com/lunalightp) かDiscord : **るなち✿#8192** まで連絡貰えれば。  
-様々な場所にデータが散らばってしまってるのでここにまとめれたらなぁとも思ってます。
+様々な場所にデータが散らばってしまってるのでここにまとめれたらなぁとも思ってます。  
+って思ってたんだけど[MarinDeckThemeKit](https://github.com/Submarinonline/MarinDeckThemeKit)のリポジトリが誕生したのでそちらに移行する予定。
+
 
 
 ### List
