@@ -1,0 +1,27 @@
+/* カラム縦分割 */
+/* 本体 */
+.app-columns {
+    display: flex!important;
+    flex-flow: column wrap!important;
+}
+.column {
+    height: calc(100%/2)!important;
+    flex: 1 1 auto;
+    margin: 0!important;
+}
+
+/* ここで分割する割合を指定(%) */
+/* %の部分(15%)には同じ数値を入力してください */
+
+.column:nth-child(odd) {
+    height: calc(100%/2 + 15%) !important;
+}
+.column:nth-child(even) {
+    height: calc(100%/2 - 15%) !important;
+}
+
+/* カラム下丸く (オプション) */
+#md-theme-midnight .column:nth-child(even) .column-header,
+.column:nth-child(even) .column-header {
+border-radius: 10px !important;
+}
